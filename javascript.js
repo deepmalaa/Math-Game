@@ -1,6 +1,6 @@
 //variables
 var play = false;
-var score;
+var score = 0;
 var time = 60;
 var action;
 var correctAns;
